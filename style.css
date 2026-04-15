@@ -1,7 +1,7 @@
 body {
     background-color: Linen;
 }
-.main-title {
+id="main-title" {
 border: 2px solid #8B4513;
 border-radius: 12px;
 padding: 15px;
