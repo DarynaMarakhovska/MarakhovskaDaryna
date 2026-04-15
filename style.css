@@ -11,4 +11,19 @@ padding: 15px;
 background-color: SaddleBrown;
 width: fit-content;
 }
-
+.button-container {
+text-align: center;
+margin-top: 30px;
+.my-button {
+display: inline-block;
+background-color: #8B4513;
+color: Linen;
+padding: 12px 25px;
+text-decoration: none;
+border-radius: 15px;
+font-family: Palatino, serif;
+font-weight: bold;
+}
+.my-button:hover {
+background-color: #5D2E0A;
+color: linen;
