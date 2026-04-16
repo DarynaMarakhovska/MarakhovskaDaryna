@@ -52,3 +52,11 @@ body {
     background-color: #5D2E0A;
     width: fit-content;
     }
+.Contacts {
+    background-color: #fdf5e6;
+}
+.button-Lilya a {
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
