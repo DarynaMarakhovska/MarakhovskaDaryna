@@ -2,49 +2,53 @@ body {
     background-color: Linen;
 }
 .index-page #main-title {
-color: linen;
-font-family: Palatino;
-margin-left: 35px;
-border: 2px solid #5D2E0A;
-border-radius: 12px;
-padding: 15px;
-background-color: #5D2E0A;
-width: fit-content;
-}
+    color: linen;
+    font-family: Palatino;
+    margin-left: 35px;
+    border: 2px solid #5D2E0A;
+    border-radius: 12px;
+    padding: 15px;
+    background-color: #5D2E0A;
+    width: fit-content;
+    }
 .description1 {
-font-size: 18px;
-color:#5D2E0A;
-font-family: Palatino;
-}
+    font-size: 18px;
+    color:#5D2E0A;
+    font-family: Palatino;
+    }
 .main-photo {
-transform: translate(460px, -260px);
-border-radius: 15px;
-}
+    transform: translate(460px, -260px);
+    border-radius: 15px;
+    }
 .button-container {
-text-align: center;
-margin-top: 5px;
+   text-align: center;
+   margin-top: 5px;
 .my-button {
-display: inline-block;
-justify-content: flex-start;
-background-color: #5D2E0A;
-color: Linen;
-padding: 12px 25px;
-text-decoration: none;
-border-radius: 15px;
-font-family: Palatino, serif;
-font-weight: bold;
-}
+   display: inline-block;
+   justify-content: flex-start;
+   background-color: #5D2E0A;
+   color: Linen;
+   padding: 12px 25px;
+   text-decoration: none;
+   border-radius: 15px;
+   font-family: Palatino, serif;
+   font-weight: bold;
+    }
 .my-button:hover {
-background-color: #3E1F07;
-color: linen;
+   background-color: #3E1F07;
+   color: linen;
 }
 .Gallery #main-title1 {
-color: linen;
-font-family: Palatino;
-margin-left: 35px;
-border: 2px solid #5D2E0A;
-border-radius: 12px;
-padding: 15px;
-background-color: #5D2E0A;
-width: fit-content;
-}
+    color: linen;
+    font-family: Palatino;
+    margin-left: 35px;
+    border: 2px solid #5D2E0A;
+    border-radius: 12px;
+    padding: 15px;
+    background-color: #5D2E0A;
+    width: fit-content;
+    }
+    padding: 15px;
+    background-color: #5D2E0A;
+    width: fit-content;
+    }
