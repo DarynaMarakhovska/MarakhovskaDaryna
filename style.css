@@ -25,6 +25,7 @@ text-align: center;
 margin-top: 5px;
 .my-button {
 display: inline-block;
+justify-content: flex-start;
 background-color: #5D2E0A;
 color: Linen;
 padding: 12px 25px;
