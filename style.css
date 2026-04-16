@@ -12,7 +12,7 @@ background-color: SaddleBrown;
 width: fit-content;
 }
 .main-photo {
-transform: translate(420px, -120px);
+transform: translate(420px, -300px);
 }
 .button-container {
 text-align: center;
