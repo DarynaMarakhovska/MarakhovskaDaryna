@@ -5,15 +5,15 @@ body {
 color: linen;
 font-family: Palatino;
 margin-left: 35px;
-border: 2px solid #8B4513;
+border: 2px solid #654321;
 border-radius: 12px;
 padding: 15px;
-background-color: SaddleBrown;
+background-color: #654321;
 width: fit-content;
 }
 .description1 {
 font-size: 18px;
-color:#8B4513;
+color:#654321;
 font-family: Palatino;
 }
 .main-photo {
