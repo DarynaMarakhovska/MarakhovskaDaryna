@@ -43,6 +43,4 @@ border-radius: 12px;
 padding: 15px;
 background-color: #5D2E0A;
 width: fit-content;
-.my-button:hover {
-background-color: #3E1F07;
-color: linen;
+}
