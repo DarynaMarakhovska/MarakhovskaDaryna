@@ -34,6 +34,15 @@ border-radius: 15px;
 font-family: Palatino, serif;
 font-weight: bold;
 }
+.Gallery #main-title {
+color: linen;
+font-family: Palatino;
+margin-left: 35px;
+border: 2px solid #5D2E0A;
+border-radius: 12px;
+padding: 15px;
+background-color: #5D2E0A;
+width: fit-content;
 .my-button:hover {
 background-color: #3E1F07;
 color: linen;
