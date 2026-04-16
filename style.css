@@ -1,7 +1,7 @@
 body {
     background-color: Linen;
 }
-#main-title {
+.index-page #main-title {
 color: linen;
 font-family: Palatino;
 margin-left: 35px;
