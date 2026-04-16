@@ -48,6 +48,7 @@ body {
     padding: 15px;
     background-color: linen;
     width: fit-content;
+    display: block;
     }
 .Contacts {
     background-color: #fdf5e6;
