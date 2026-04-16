@@ -34,6 +34,10 @@ border-radius: 15px;
 font-family: Palatino, serif;
 font-weight: bold;
 }
+.my-button:hover {
+background-color: #3E1F07;
+color: linen;
+}
 .Gallery #main-title1 {
 color: linen;
 font-family: Palatino;
