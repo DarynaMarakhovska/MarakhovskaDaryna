@@ -25,7 +25,7 @@ text-align: center;
 margin-top: 5px;
 .my-button {
 display: inline-block;
-background-color: #8B4513;
+background-color: #5D2E0A;
 color: Linen;
 padding: 12px 25px;
 text-decoration: none;
@@ -34,5 +34,5 @@ font-family: Palatino, serif;
 font-weight: bold;
 }
 .my-button:hover {
-background-color: #5D2E0A;
+background-color: #3E1F07;
 color: linen;
