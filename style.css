@@ -39,17 +39,13 @@ body {
    color: linen;
 }
 .Gallery #gallerytitle {
-    color: linen;
+    color: #5D2E0A;
     font-family: Palatino;
-    margin-left: 35px;
+    margin-left: 15px;
     border: 2px solid #5D2E0A;
     border-radius: 12px;
     padding: 15px;
-    background-color: #5D2E0A;
-    width: fit-content;
-    }
-    padding: 15px;
-    background-color: #5D2E0A;
+    background-color: linen;
     width: fit-content;
     }
 .Contacts {
