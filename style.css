@@ -38,7 +38,7 @@ body {
    background-color: #3E1F07;
    color: linen;
 }
-.Gallery #gallerytitle {
+#gallerytitle {
     color: #5D2E0A;
     font-family: Palatino;
     margin-left: 15px;
