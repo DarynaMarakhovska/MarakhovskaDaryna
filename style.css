@@ -31,6 +31,7 @@ body {
    font-weight: bold;
     margin-top: 35px;
     margin-left: 35px;
+    width: 55px;
     }
 .my-button:hover {
    background-color: #3E1F07;
