@@ -29,9 +29,8 @@ body {
    border-radius: 15px;
    font-family: Palatino, serif;
    font-weight: bold;
-    margin-top: 20px;
+    margin-top: 35px;
     margin-left: 35px;
-    clear: both;
     }
 .my-button:hover {
    background-color: #3E1F07;
