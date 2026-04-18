@@ -27,7 +27,7 @@ body {
     width: fit-content;
     }
 .main-photo {
-    transform: translate(500px, -360px);
+    transform: translate(500px, -560px);
     border-radius: 15px;
     }
 .my-button {
