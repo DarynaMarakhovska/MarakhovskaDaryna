@@ -58,6 +58,8 @@ body {
   }
 .Lilechka img {
     border-radius: 15px;
+     border: 2px solid #5D2E0A;
+    background-color: #5D2E0A;
  }
 .Contacts {
     background-color: #fdf5e6;
