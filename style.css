@@ -19,7 +19,7 @@ body {
 .description {
     color: black;
     font-family: Palatino;
-    margin-left: 35px;
+    margin-left: 5px;
     border: 2px solid #FFFFFF;
     border-radius: 12px;
     padding: 15px;
@@ -27,7 +27,7 @@ body {
     width: fit-content;
     }
 .main-photo {
-    transform: translate(460px, -260px);
+    transform: translate(500px, -260px);
     border-radius: 15px;
     }
 .my-button {
