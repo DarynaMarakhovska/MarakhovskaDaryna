@@ -52,7 +52,6 @@ body {
 .Lilechka {
     display: flex;
     gap: 25px;
-    justify-content: center;
   }
 .Lilechka img {
     border-radius: 15px;
