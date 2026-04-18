@@ -31,6 +31,7 @@ body {
    font-weight: bold;
     margin-top: 20px;
     margin-left: 35px;
+    clear: both;
     width: fit-content;
     }
 .my-button:hover {
