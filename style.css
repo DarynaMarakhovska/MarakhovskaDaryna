@@ -24,7 +24,7 @@ body {
    display: block;
    background-color: #5D2E0A;
    color: Linen;
-   padding: 12px 25px;
+   padding: 12px 35px;
    text-decoration: none;
    border-radius: 15px;
    font-family: Palatino, serif;
@@ -32,7 +32,6 @@ body {
     margin-top: 20px;
     margin-left: 35px;
     clear: both;
-    width: fit-content;
     }
 .my-button:hover {
    background-color: #3E1F07;
